@@ -1,4 +1,4 @@
-gl.setup(1920, 1080)
+gl.setup(1920, 54)
 
 local font = resource.load_font("calibri.ttf")
 
