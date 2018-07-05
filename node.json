@@ -1,9 +1,9 @@
 {
-    "name": "Hello World Node",
+    "name": "ib2 Node",
     "options": [{
         "title": "Text",
         "name": "text",
         "type": "string",
-        "default": "Hello world"
+        "default": "Hello Welt"
     }]
 }
